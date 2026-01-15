@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# איך להיפטר מהסוכרת ב-21 יום! — Generative Engine Optimization Map
+
+> A בריאות ורפואה משלימה business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://example.com
+https://how-to-get-rid-of-diabetes-in-.zappy5.app
 גלה איך להיפטר מסוכרת טבעי ב-21 יום! קורס דיגיטלי מקיף לריפוי סוכרת בישראל עם שיטות טבעיות מוכחות.
 
 ### התוכנית
-https://example.com/program
+https://how-to-get-rid-of-diabetes-in-.zappy5.app/program
 למד על קורס לטיפול בסוכרת אונליין המקיף שלנו. תכנית מפורטת ל-21 יום עם שיטות טבעיות מוכחות לריפוי סוכרת.
 
 ### אודות
-https://example.com/about
+https://how-to-get-rid-of-diabetes-in-.zappy5.app/about
 למד על הצוות והחזון מאחורי קורס דיגיטלי לסוכרת בישראל. גלה איך אנחנו עוזרים לאנשים להיפטר מסוכרת טבעי.
 
 ### צור קשר
-https://example.com/contact
+https://how-to-get-rid-of-diabetes-in-.zappy5.app/contact
 צור קשר עם צוות קורס דיגיטלי לסוכרת בישראל. קבל מידע נוסף על איך להיפטר מסוכרת טבעי והירשם לקורס היום.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://how-to-get-rid-of-diabetes-in-.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://how-to-get-rid-of-diabetes-in-.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://how-to-get-rid-of-diabetes-in-.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About איך להיפטר מהסוכרת ב-21 יום!
+איך להיפטר מהסוכרת ב-21 יום! is a business in the בריאות ורפואה משלימה industry.
+
+## Target Audience
+אנשים הסובלים מסוכרת
+
+## Industry
+בריאות ורפואה משלימה
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://how-to-get-rid-of-diabetes-in-.zappy5.app/sitemap.xml
+- **Robots.txt**: https://how-to-get-rid-of-diabetes-in-.zappy5.app/robots.txt
