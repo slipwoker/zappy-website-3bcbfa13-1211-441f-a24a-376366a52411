@@ -1,6 +1,4 @@
-# איך להיפטר מהסוכרת ב-21 יום! — Generative Engine Optimization Map
-
-> A בריאות ורפואה משלימה business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About איך להיפטר מהסוכרת ב-21 יום!
-איך להיפטר מהסוכרת ב-21 יום! is a business in the בריאות ורפואה משלימה industry.
-
-## Target Audience
-אנשים הסובלים מסוכרת
-
-## Industry
-בריאות ורפואה משלימה
-
+## About Business
 ---
 
 # Additional Resources
